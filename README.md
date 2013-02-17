@@ -1,7 +1,7 @@
 sgf.js
 ======
 
-*Simple Game Format* parser in javascript. wip.
+*Simple Game Format* (*SGF FF[4]*) parser in javascript. wip.
 
 How to use
 ----------
